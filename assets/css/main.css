@@ -1,1 +1,26 @@
 /* custom styles */
+nav {
+	height: 50px;
+}
+
+#page-wrapper {
+	max-width: 1000px;
+}
+
+.center {
+	text-align: center;
+    margin: auto;
+    width: 50%;
+    /*border: 3px solid green;*/
+    padding: 10px;
+}
+
+footer {
+	border-top: thick double #ff0000;
+	margin: 10px 50px 10px 50px;
+}
+
+.contact-info {
+	display: block;
+	margin: 10px 0px 10px 0px;
+}
