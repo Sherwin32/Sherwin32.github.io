@@ -2,6 +2,7 @@
 body {
 	/*background-color: #CCFFFF;*/
 	background-image: url("../../img/backgroundTrees_1920x1234.png");
+	background-size: cover;
 }
 
 header {
