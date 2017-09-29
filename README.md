@@ -25,8 +25,8 @@ No usage instruction needed for now.
 
 ## History
 
-2017-09-26 -> Website created.
-2017-09-29 -> First checkpoint(Created basic page with header, wrapper and footer).
+..* 2017-09-26 -> Website created.
+..* 2017-09-29 -> First checkpoint(Created basic page with header, wrapper and footer).
 
 ## Credits
 
