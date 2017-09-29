@@ -4,8 +4,16 @@ body {
 	background-image: url("../../img/backgroundTrees_1920x1234.png");
 }
 
+header {
+	border-bottom: thick double #759895;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
 .wrapper {
 	/*background-size: 100%;*/
+	text-align: left;
+	margin: 0px 10% 30px 10%;
 }
 
 .center {
@@ -18,7 +26,8 @@ body {
 
 
 
-a {;
+a {
+
 }
 
 .contact-list li {
@@ -31,6 +40,15 @@ footer {
 	margin: 10px 50px 10px 50px;
 }
 
-.contact-info {
+.contact-block {
+	clear:both;
+}
+
+.contact-info, .work-list {
 	margin: 10px 0px 10px 0px;
+	font-size: 20px;
+}
+
+.celebrate {
+	
 }
