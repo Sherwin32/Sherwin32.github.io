@@ -30,7 +30,9 @@ header {
 a {
 
 }
-
+.work-list li {
+	margin-bottom: 5px;
+}
 .contact-list li {
 	margin-top: 10px;
 	margin-bottom: 5px;
